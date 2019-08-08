@@ -85,7 +85,7 @@ def adding_matz
   programmer_hash[:adding_matz]["yukihiro_matsumoto"][:known_for] = "COBOL"
   programmer_hash[:adding_matz]["yukihiro_matsumoto"][:languages] = "LISP", "C"
  
- return  programmer_hash  
+ programmer_hash  
 end
 
 def changing_alan
