@@ -82,7 +82,7 @@ def adding_matz
         }
      }
   programmer_hash[:adding_matz] = "yukihiro_matsumoto"
-  "yukihiro_matsumoto"[:known_for] = "COBOL"
+  prog"yukihiro_matsumoto"[:known_for] = "COBOL"
   "yukihiro_matsumoto"[:languages] = "LISP", "C"
  
   puts programmer_hash  
