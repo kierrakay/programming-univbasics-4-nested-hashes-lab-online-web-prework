@@ -81,7 +81,7 @@ def adding_matz
           :languages => ["C"]
         }
      }
-  programmer_hash[:adding_matz] = "yukihiro_matsumoto".unshift
+  programmer_hash[:adding_matz] = "yukihiro_matsumoto"
   puts programmer_hash  
 end
 
